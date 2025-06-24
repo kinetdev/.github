@@ -40,15 +40,6 @@ Chúng tôi cung cấp các giải pháp kỹ thuật số tối ưu, dịch v�
 
 ---
 
-## 📁 Danh mục phổ biến
-
-- `scripts/` – Tổng hợp script hữu ích cho FiveM
-- `tools/` – Các công cụ và ứng dụng hỗ trợ phát triển
-- `designs/` – Mẫu giao diện thiết kế UI/UX
-- `docs/` – Tài liệu hướng dẫn sử dụng và cài đặt
-
----
-
 ## 📣 Góp ý và liên hệ
 
 Chúng tôi luôn mong muốn được lắng nghe bạn!  
