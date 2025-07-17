@@ -34,7 +34,7 @@ Chúng tôi cung cấp các giải pháp kỹ thuật số tối ưu, dịch v�
 ## 🌐 Kết nối với KinetDev
 
 - 🌍 Website: [https://kinetdev.com](https://kinetdev.com) 
-- 💬 Discord: [https://discord.gg/kinetdev](https://discord.gg/kinetdev)
+- 💬 Discord: [https://discord.gg/kinetdev](https://discord.gg/UgGdpFz2hF)
 - 📦 GitHub: [https://github.com/KinetDev](https://github.com/KinetDev)
 - 📧 Email: contact@kinetdev.com
 
@@ -43,7 +43,7 @@ Chúng tôi cung cấp các giải pháp kỹ thuật số tối ưu, dịch v�
 ## 📣 Góp ý và liên hệ
 
 Chúng tôi luôn mong muốn được lắng nghe bạn!  
-Nếu có bất kỳ ý tưởng, góp ý hay vấn đề kỹ thuật nào, hãy liên hệ qua [Discord](https://discord.gg/kinetdev) hoặc mở issue trên GitHub.
+Nếu có bất kỳ ý tưởng, góp ý hay vấn đề kỹ thuật nào, hãy liên hệ qua [Discord](https://discord.gg/UgGdpFz2hF) hoặc mở issue trên GitHub.
 
 ---
 
